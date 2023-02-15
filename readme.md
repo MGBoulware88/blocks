@@ -1,0 +1,1 @@
+This project is for assignment "Plotting Our Blocks" that requires me to use CSS to get blocks in some provided HTML to look like a provided image (./static/position-blocks/png).
